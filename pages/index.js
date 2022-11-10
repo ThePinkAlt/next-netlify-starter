@@ -13,7 +13,6 @@ export default function Home() {
       <main>
         <Header title="Welcome To Blob Hack!" />
         <p className="description">
-       background: #F38DB5;
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
